@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.materialme.app-mergeDebugResources-4:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\KULIAH\\Semester 5\\android-fundamentals-apps-v2-master\\MaterialMe-Resource\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "19,26,32,28",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "709,1029,1271,1111",
+                        "endLines": "24,26,35,30",
+                        "endColumns": "12,80,12,12",
+                        "endOffsets": "1023,1105,1508,1265"
+                    },
+                    "to": {
+                        "startLines": "3,9,10,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,389,469,711",
+                        "endLines": "8,9,13,16",
+                        "endColumns": "12,79,12,12",
+                        "endOffsets": "384,464,706,865"
+                    }
+                },
+                {
+                    "source": "D:\\KULIAH\\Semester 5\\android-fundamentals-apps-v2-master\\MaterialMe-Resource\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "672",
+                        "endColumns": "49",
+                        "endOffsets": "717"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

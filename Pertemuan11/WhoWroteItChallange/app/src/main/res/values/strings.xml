@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhoWroteItChallange</string>
+    <string name="instructions">instructions</string>
+    <string name="input_hint">Input</string>
+    <string name="button_text">Search</string>
+    <string name="no_search_term" />
+    <string name="no_network" />
+    <string name="loading" />
+    <string name="no_results" />
+</resources>

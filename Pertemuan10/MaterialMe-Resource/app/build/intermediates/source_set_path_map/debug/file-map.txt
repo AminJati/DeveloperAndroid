@@ -1,0 +1,9 @@
+com.example.android.materialme.app-constraint-layout-1.0.2-0 C:\Users\USER\.gradle\caches\transforms-3\e9ec7657be07536d9e3f8b80333161e2\transformed\constraint-layout-1.0.2\res
+com.example.android.materialme.app-pngs-1 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\build\generated\res\pngs\debug
+com.example.android.materialme.app-resValues-2 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\build\generated\res\resValues\debug
+com.example.android.materialme.app-rs-3 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\build\generated\res\rs\debug
+com.example.android.materialme.app-mergeDebugResources-4 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.materialme.app-mergeDebugResources-5 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.materialme.app-merged_res-6 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\build\intermediates\merged_res\debug
+com.example.android.materialme.app-debug-7 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\debug\res
+com.example.android.materialme.app-main-8 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\res

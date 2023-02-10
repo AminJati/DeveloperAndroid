@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amin App</string>
+    <string name="input_control_activity">Input Control Activity</string>
+    <string name="input_listview_activity">Listview Activity</string>
+    <string name="mi_recycleview_activity">Recycleview Activity</string>
+    <string name="mi_quit">Quit</string>
+</resources>

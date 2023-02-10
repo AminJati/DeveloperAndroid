@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-3\e9ec7657be07536d9e3f8b80333161e2\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+	package
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:17:5-45
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:1-35:12
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:16:11-69
+application
+ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:19:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-3\e9ec7657be07536d9e3f8b80333161e2\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-3\e9ec7657be07536d9e3f8b80333161e2\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.materialme.MainActivity
+ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.android.materialme.DetailActivity
+ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:32:9-61
+	android:name
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml:32:19-49
+uses-sdk
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-3\e9ec7657be07536d9e3f8b80333161e2\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.gradle\caches\transforms-3\e9ec7657be07536d9e3f8b80333161e2\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\MaterialMe-Resource\app\src\main\AndroidManifest.xml

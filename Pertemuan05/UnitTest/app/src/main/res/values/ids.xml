@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="operation_result_text_view" type="id"/>
+    <item name="operand_one_edit_text" type="id"/>
+    <item name="operand_two_edit_text" type="id"/>
+</resources>

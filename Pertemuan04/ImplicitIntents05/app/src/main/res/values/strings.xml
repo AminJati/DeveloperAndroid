@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImplicitIntents05</string>
+    <string name="uri_label">uri_label</string>
+</resources>

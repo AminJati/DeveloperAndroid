@@ -1,0 +1,12 @@
+com.example.android.scorekeeper.app-support-media-compat-26.1.0-0 C:\Users\USER\.gradle\caches\transforms-3\13767fe755abf8b2dd06bfec93124f0d\transformed\support-media-compat-26.1.0\res
+com.example.android.scorekeeper.app-support-compat-26.1.0-1 C:\Users\USER\.gradle\caches\transforms-3\22833faadf4cd4b510a631db16bade3a\transformed\support-compat-26.1.0\res
+com.example.android.scorekeeper.app-appcompat-v7-26.1.0-2 C:\Users\USER\.gradle\caches\transforms-3\94257ecb928c19703b479abbc9ce3164\transformed\appcompat-v7-26.1.0\res
+com.example.android.scorekeeper.app-constraint-layout-1.0.2-3 C:\Users\USER\.gradle\caches\transforms-3\e9ec7657be07536d9e3f8b80333161e2\transformed\constraint-layout-1.0.2\res
+com.example.android.scorekeeper.app-pngs-4 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\Scorekeeper\app\build\generated\res\pngs\debug
+com.example.android.scorekeeper.app-resValues-5 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\Scorekeeper\app\build\generated\res\resValues\debug
+com.example.android.scorekeeper.app-rs-6 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\Scorekeeper\app\build\generated\res\rs\debug
+com.example.android.scorekeeper.app-mergeDebugResources-7 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\Scorekeeper\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.scorekeeper.app-mergeDebugResources-8 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\Scorekeeper\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.scorekeeper.app-merged_res-9 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\Scorekeeper\app\build\intermediates\merged_res\debug
+com.example.android.scorekeeper.app-debug-10 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\Scorekeeper\app\src\debug\res
+com.example.android.scorekeeper.app-main-11 D:\KULIAH\Semester 5\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\res

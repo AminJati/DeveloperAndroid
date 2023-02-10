@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/layout_activity_detail.xml.flat",
+        "source": "com.example.android.materialme.app-main-8:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_soccer.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_soccer.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_tabletennis.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_tabletennis.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_swimming.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_swimming.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable-anydpi-v21_ic_reset.xml.flat",
+        "source": "com.example.android.materialme.app-pngs-1:/drawable-anydpi-v21/ic_reset.xml"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_running.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_running.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-8:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable-hdpi_ic_reset.png.flat",
+        "source": "com.example.android.materialme.app-pngs-1:/drawable-hdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable-ldpi_ic_reset.png.flat",
+        "source": "com.example.android.materialme.app-pngs-1:/drawable-ldpi/ic_reset.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_baseball.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_baseball.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_cycling.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_cycling.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-8:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/layout_activity_main.xml.flat",
+        "source": "com.example.android.materialme.app-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_badminton.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_badminton.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable-xxhdpi_ic_reset.png.flat",
+        "source": "com.example.android.materialme.app-pngs-1:/drawable-xxhdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-8:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_tennis.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_tennis.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/layout_list_item.xml.flat",
+        "source": "com.example.android.materialme.app-main-8:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable-xxxhdpi_ic_reset.png.flat",
+        "source": "com.example.android.materialme.app-pngs-1:/drawable-xxxhdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable-mdpi_ic_reset.png.flat",
+        "source": "com.example.android.materialme.app-pngs-1:/drawable-mdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-8:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable-xhdpi_ic_reset.png.flat",
+        "source": "com.example.android.materialme.app-pngs-1:/drawable-xhdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_basketball.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_basketball.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-8:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_bowling.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_bowling.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-merged_res-6:/drawable_img_golf.jpg.flat",
+        "source": "com.example.android.materialme.app-main-8:/drawable/img_golf.jpg"
+    }
+]
